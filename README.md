@@ -80,13 +80,8 @@ The data preparation process included:
 **•** Supports competitive pricing strategies and improved revenue management  
 **•** Helps AtliQ Grands regain market share and improve financial performance  
 
-## Author
-
-*Your Name Here*  
-*GitHub Profile or Email*
-
-## Dashboard Screenshot
+## Dashboard
 
 ```markdown
-![Dashboard Screenshot](path/to/your/dashboard-image.png)
+![Dashboard Screenshot](https://github.com/HassanAliKhan157/Hospitality_Domain_Project_PowerBI/blob/main/Hospitality%20Project%20Dashboard.png)
 ```
