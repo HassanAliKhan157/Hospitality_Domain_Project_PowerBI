@@ -82,6 +82,8 @@ The data preparation process included:
 
 ## Dashboard Screenshot
 
+*(Add your dashboard image below by replacing the image path)*
+
 ```markdown
-![Dashboard Screenshot](https://github.com/HassanAliKhan157/Hospitality_Domain_Project_PowerBI/blob/main/Hospitality%20Project%20Dashboard.png) 
+![Dashboard Screenshot]()
 ```
