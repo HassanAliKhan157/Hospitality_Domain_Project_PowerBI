@@ -1,4 +1,4 @@
-# Hospitality Domain Dashboard Project
+# AtliQ Grands - Hotel Business Intelligence Dashboard
 
 This project delivers business and data intelligence insights for **AtliQ Grands**, a luxury hotel chain operating multiple five-star hotels across India for over 20 years.
 
@@ -82,6 +82,4 @@ The data preparation process included:
 
 ## Dashboard Screenshot
 
-```markdown
-![Dashboard Screenshot](https://github.com/HassanAliKhan157/Sales_Insights_Project_PowerBI-MySQL/blob/main/AtliQ%20Dashboard.png)
-```
+![Dashboard Screenshot](path/to/your/dashboard-image.png)
