@@ -83,3 +83,7 @@ The data preparation process included:
 ## Dashboard Screenshot
 
 ![Dashboard Screenshot](https://github.com/HassanAliKhan157/Hospitality_Domain_Project_PowerBI/blob/main/Hospitality%20Project%20Dashboard.png)
+
+## Source of Data
+
+[Link to Data Source](https://codebasics.io/challenges/all)
